@@ -1,0 +1,17 @@
+html{
+    background-color: black;
+}
+.container  {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1{
+    display: inline;
+}
+#text{
+    color: #b0b0f3;
+}
+#span{
+    color:yellow;
+}
